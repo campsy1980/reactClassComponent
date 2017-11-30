@@ -1,0 +1,22 @@
+{
+  "name": "react-class-component-hello-world",
+  "version": "1.0.0",
+  "description": "Test react class",
+  "main": "index.js",
+  "keywords": [
+    "Test node module",
+    "React Class Component"
+  ],
+  "author": "Gareth Camps <gareth.camps@itcuk.com> (http://itcuk.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/campsy1980/reactClassComponent.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/campsy1980/reactClassComponent.git/master/LICENSE-MIT"
+    }
+  ]
+}
